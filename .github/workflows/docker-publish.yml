@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: henryxqy/python-xray-argo:latest
+          tags: dunkirk/python-xray-argo:latest
